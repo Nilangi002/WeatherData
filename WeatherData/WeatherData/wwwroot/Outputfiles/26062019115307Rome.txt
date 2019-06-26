@@ -1,0 +1,1 @@
+{ temperatur = 298.68, Summary = Clear, city = Marino }

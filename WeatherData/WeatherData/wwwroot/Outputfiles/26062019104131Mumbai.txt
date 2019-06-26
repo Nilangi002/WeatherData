@@ -1,0 +1,1 @@
+{ temperatur = 302.65, Summary = Rain,Haze, city = Mumbai }

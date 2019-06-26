@@ -1,0 +1,1 @@
+{ temperatur = 286.12, Summary = Clouds, city = Dublin }

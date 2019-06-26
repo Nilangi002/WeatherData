@@ -1,0 +1,1 @@
+{ temperatur = 293.36, Summary = Mist, city = Paris }

@@ -1,0 +1,17 @@
+D:\WeatherData\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherData.deps.json
+D:\WeatherData\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherData.runtimeconfig.json
+D:\WeatherData\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherData.runtimeconfig.dev.json
+D:\WeatherData\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherData.dll
+D:\WeatherData\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherData.pdb
+D:\WeatherData\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\Weather.Utilities.dll
+D:\WeatherData\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\Weather.Utilities.pdb
+D:\WeatherData\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherData.csprojAssemblyReference.cache
+D:\WeatherData\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherData.csproj.CoreCompileInputs.cache
+D:\WeatherData\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherData.RazorAssemblyInfo.cache
+D:\WeatherData\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherData.RazorAssemblyInfo.cs
+D:\WeatherData\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherData.AssemblyInfoInputs.cache
+D:\WeatherData\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherData.AssemblyInfo.cs
+D:\WeatherData\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherData.RazorTargetAssemblyInfo.cache
+D:\WeatherData\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherData.csproj.CopyComplete
+D:\WeatherData\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherData.dll
+D:\WeatherData\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherData.pdb

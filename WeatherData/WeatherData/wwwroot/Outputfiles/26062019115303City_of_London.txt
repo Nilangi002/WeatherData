@@ -1,0 +1,1 @@
+{ temperatur = 288.47, Summary = Fog,Haze,Mist, city = City of London }

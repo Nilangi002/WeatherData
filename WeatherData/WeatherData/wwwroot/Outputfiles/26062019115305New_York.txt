@@ -1,0 +1,1 @@
+{ temperatur = 295.07, Summary = Fog, city = New York }

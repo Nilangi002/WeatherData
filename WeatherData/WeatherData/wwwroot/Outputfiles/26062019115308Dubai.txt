@@ -1,0 +1,1 @@
+{ temperatur = 312.4, Summary = Dust, city = Dubai }

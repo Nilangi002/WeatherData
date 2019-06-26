@@ -1,0 +1,1 @@
+{ temperatur = 297.44, Summary = Clear, city = Berlin }

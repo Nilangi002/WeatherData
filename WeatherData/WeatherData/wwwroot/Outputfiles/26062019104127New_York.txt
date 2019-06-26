@@ -1,0 +1,1 @@
+{ temperatur = 295.31, Summary = Clear, city = New York }

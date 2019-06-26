@@ -1,0 +1,1 @@
+{ temperatur = 308.66, Summary = Haze,Smoke, city = Delhi }
